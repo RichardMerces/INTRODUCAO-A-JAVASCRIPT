@@ -1,0 +1,21 @@
+PO
+Scrum master
+equipe devs
+
+Artefatos:
+
+- Backlog de produto
+	Planejamento do sprint
+- Backlog de sprint
+	revisão
+- Incremento / Iteração - sprint
+	retrospectiva
+
+Há reuniões diárias, e revisões.
+
+O prejeto se divide em epics
+Epics -> História do usuário = quem, o quê, por quê
+
+grafico burdown
+
+https://www.atlassian.com/br/agile/scrum
